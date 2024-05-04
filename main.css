@@ -1,0 +1,294 @@
+#logo{
+    width: 450px;
+    height: 65px;
+    gap: 0px;
+    border-radius: 0px 100px 100px 0px;
+    opacity: 0px;
+    background: #407BFF;
+}
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440px;
+height: 65px;
+gap: 0px;
+opacity: 0px;
+
+}
+#menu{
+    display: flex;
+    flex-direction: row;
+    
+    
+    }
+li{
+    display: inline;
+    list-style: none;
+    padding: 10px;
+}
+
+
+
+#menu a{
+color: black;
+text-decoration: none;
+
+} 
+
+#menu a:hover 
+{
+ 
+color:#F04080;
+padding: 10px;
+       
+        
+            
+}
+
+
+#Contact{
+    width: 187px;
+height: 56.1px;
+top: 4px;
+left: 1223px;
+padding: 0px;
+gap: 0px;
+opacity: 0px;
+
+    display: inline;
+    
+}
+#mail{
+    width: 187px;
+height: 24px;
+top: 36.1px;
+left: 1223px;
+gap: 0px;
+opacity: 0px;
+color: #F04080;
+font-family: Noto Serif TC;
+font-size: 12px;
+font-weight: 400;
+line-height: 17.24px;
+text-align: left;
+
+
+
+}
+#phone{
+    width: 131px;
+height: 24px;
+top: 4px;
+left: 1223px;
+gap: 0px;
+opacity: 0px;
+color: #F04080;
+
+font-family: Noto Serif TC;
+font-size: 12px;
+font-weight: 400;
+line-height: 17.24px;
+text-align: left;
+
+
+}
+.mini{
+    width: 24px;
+height: 24px;
+top: 36.1px;
+left: 1223px;
+gap: 0px;
+opacity: 0px;
+
+}
+#our_partner{
+width: 1440px;
+height: 300px;
+top: 1262px;
+left: 3px;
+gap: 0px;
+opacity: 0px;
+
+
+
+}
+#our_partner img{
+    width: 300px;
+height: 300px;
+top: 1279px;
+left: 34px;
+gap: 0px;
+opacity: 0px;
+}
+.left_img{
+    float: left;
+}
+.right_img{
+    float: right;
+    
+    
+}
+
+#our_partner p{
+    font-family: Noto Serif TC;
+    font-size: 32px;
+    letter-spacing: 0.04em;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+}
+.center_img
+{
+    width: 600px;
+    height: 100px;
+    top: 1353px;
+    left: 473px;
+    gap: 0px;
+    opacity: 0px;
+    position: inherit;
+    left: 50%;
+     }
+
+
+
+
+
+
+footer{
+    width: 1440px;
+height: 435px;
+top: 1565px;
+gap: 0px;
+opacity: 0px;
+
+
+
+}
+#copyrights{
+    width: 1440px;
+height: 85px;
+top: 1915px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Noto Serif TC;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.04em;
+text-align: center;
+background-color: white;
+
+}
+#parent{
+    width: 1440px;
+height: 350px;
+top: 1565px;
+gap: 0px;
+opacity: 0px;
+
+background-color: #407BFF;
+
+}
+.center{
+
+font-family: Noto Serif TC;
+font-size: 32px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.04em;
+display: flex;
+justify-content: center;
+color: white;
+
+
+
+
+
+}
+#location{
+width: 235px;
+height: 150px;
+top: 1696px;
+left: 210px;
+gap: 0px;
+opacity: 0px;
+color: #FFFFFF;
+/*border: 2px solid #FFFFFF;*/
+}
+p.loc{
+    font-family: Noto Serif TC;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    
+    color: black;
+
+}
+p.det{
+font-family: Noto Serif TC;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.04em;
+text-align: left;
+
+}
+#con{
+    width: 235px;
+    height: 150px;
+    top: 1696px;
+    left: 210px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+    /*border: 2px solid #FFFFFF;*/
+
+}
+#con p{
+    font-family: Noto Serif TC;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.04em;
+text-align: left;
+
+
+}
+p#ip{
+font-family: Noto Serif TC;
+font-size: 20px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.04em;
+
+color: black;
+
+}
+#details{
+    display:flex;
+justify-content:space-around;
+align-items:center;
+
+   
+}
+
+#social img{
+    width: 32px;
+    height: 32px;
+    top: 1770px;
+    left: 1125px;
+    
+    opacity: 0px;
+    margin: 30px;
+    
+
+}
+
+   
+
+
+    
