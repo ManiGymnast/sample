@@ -110,6 +110,32 @@ gap: 0px;
 opacity: 0px;
 
 }
+#vi_p{
+display:flex;
+justify-content: space-between;
+flex-wrap: wrap;
+width: 1034px;
+height: 449px;
+gap: 0px;
+opacity: 0px;
+
+gap: 10px;
+
+
+}
+.vi{
+width: 450px;
+height: 177px;
+gap: 0px;
+opacity: 0px;
+background-color: #D8B8EB;
+
+box-shadow: 15px 15px 4px 0px #0000005C;
+
+
+
+
+}
 
 #our_partner{
     width: 1440px;
