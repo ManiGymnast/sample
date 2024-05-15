@@ -153,9 +153,9 @@ align-items:center;
 
 }
 #vi p{
-    font-family: Noto Serif TC;
+    font-family: Noto,Serif,TC;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: lighter;
     line-height: 20px;
     letter-spacing: 0.04em;
     text-align:center;
