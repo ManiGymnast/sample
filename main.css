@@ -67,7 +67,7 @@ left: 1223px;
 gap: 0px;
 opacity: 0px;
 color: #F04080;
-font-family: Noto Serif TC;
+font-family: "Noto Serif TC";
 font-size: 12px;
 font-weight: 400;
 line-height: 17.24px;
@@ -85,7 +85,7 @@ gap: 0px;
 opacity: 0px;
 color: #F04080;
 
-font-family: Noto Serif TC;
+font-family: "Noto Serif TC";
 font-size: 12px;
 font-weight: 400;
 line-height: 17.24px;
@@ -112,6 +112,8 @@ opacity: 0px;
 }
 #vi_c{
 display: flex;
+flex-direction: column;
+align-items: center;
 justify-content: center;
 width: 1440px;
 height: 600px;
@@ -122,6 +124,8 @@ opacity: 0px;
 
 
 }
+
+
 #vi_p{
 display:flex;
 justify-content: space-between;
@@ -135,6 +139,7 @@ opacity: 0px;
 
 
 }
+
 .vi{
 width: 450px;
 height: 177px;
@@ -153,16 +158,38 @@ align-items:center;
 
 }
 #vi p{
-    font-family: Noto,Serif,TC;
-    font-size: 16px;
-    font-weight: lighter;
-    line-height: 20px;
-    letter-spacing: 0.04em;
+    font-family: "Noto Serif TC";
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.04em;
+text-align: left;
+
     text-align:center;
     
     
 
 }
+#vi_c div .c {
+    font-family: "Noto Serif TC";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    text-align: center;
+    
+    }
+    #vi_c.c{
+        width: 120px;
+        height: 20px;
+        top: 700px;
+        left: 663px;
+        gap: 0px;
+        opacity: 0px;
+        
+
+    }
+    
 
 #our_partner{
     width: 1440px;
@@ -178,7 +205,7 @@ align-items:center;
     align-content: center;
 }
 #center_p{
-    font-family: Noto Serif TC;
+    font-family: "Noto Serif TC";
     font-size: 32px;
     font-weight: 700;
     line-height: 20px;
@@ -220,7 +247,7 @@ top: 1915px;
 gap: 0px;
 opacity: 0px;
 
-    font-family: Noto Serif TC;
+    font-family: "Noto Serif TC";
 font-size: 14px;
 font-weight: 400;
 line-height: 20px;
@@ -241,7 +268,7 @@ background-color: #407BFF;
 }
 .center{
 
-font-family: Noto Serif TC;
+font-family: "Noto Serif TC";
 font-size: 32px;
 font-weight: 700;
 line-height: 20px;
@@ -266,7 +293,7 @@ color: #FFFFFF;
 /*border: 2px solid #FFFFFF;*/
 }
 p.loc{
-    font-family: Noto Serif TC;
+    font-family: "Noto Serif TC";
     font-size: 20px;
     font-weight: 400;
     line-height: 20px;
@@ -276,7 +303,7 @@ p.loc{
 
 }
 p.det{
-font-family: Noto Serif TC;
+font-family: "Noto Serif TC";
 font-size: 14px;
 font-weight: 400;
 line-height: 20px;
@@ -296,7 +323,7 @@ text-align: left;
 
 }
 #con p{
-    font-family: Noto Serif TC;
+    font-family: "Noto Serif TC";
 font-size: 14px;
 font-weight: 400;
 line-height: 20px;
@@ -306,7 +333,7 @@ text-align: left;
 
 }
 p#ip{
-font-family: Noto Serif TC;
+font-family: "Noto Serif TC";
 font-size: 20px;
 font-weight: 400;
 line-height: 20px;
