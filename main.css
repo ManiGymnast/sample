@@ -170,6 +170,14 @@ align-items:center;
 
 
 }
+#vi_a{
+    display: flex;
+    flex-direction: column;
+}
+
+    
+
+
 #vi p{
     font-family: "Noto Serif TC";
 font-size: 16px;
